@@ -1,0 +1,388 @@
+period,plantCode,plantName,fuel2002,fuelTypeDescription,state,stateDescription,primeMover,generation,generation-units
+2024,10181,Metropolitan Sewerage District,ALL,Total,NC,North Carolina,ALL,6140,megawatthours
+2024,10181,Metropolitan Sewerage District,WAT,Hydroelectric Conventional,NC,North Carolina,ALL,6140,megawatthours
+2024,10181,Metropolitan Sewerage District,WAT,Hydroelectric Conventional,NC,North Carolina,HY,6140,megawatthours
+2024,60380,"Shoe Creek Solar, LLC",ALL,Total,NC,North Carolina,ALL,126918,megawatthours
+2024,60380,"Shoe Creek Solar, LLC",SUN,Solar,NC,North Carolina,ALL,126918,megawatthours
+2024,54801,Avalon Hydropower,ALL,Total,NC,North Carolina,ALL,4060,megawatthours
+2024,54801,Avalon Hydropower,WAT,Hydroelectric Conventional,NC,North Carolina,ALL,4060,megawatthours
+2024,54801,Avalon Hydropower,WAT,Hydroelectric Conventional,NC,North Carolina,HY,4060,megawatthours
+2024,59325,Kings Mountain Energy Center,ALL,Total,NC,North Carolina,ALL,3322502,megawatthours
+2024,59325,Kings Mountain Energy Center,NG,Natural Gas,NC,North Carolina,ALL,3322502,megawatthours
+2024,59325,Kings Mountain Energy Center,NG,Natural Gas,NC,North Carolina,CA,1362496,megawatthours
+2024,59325,Kings Mountain Energy Center,NG,Natural Gas,NC,North Carolina,CT,1960006,megawatthours
+2024,7277,Lincoln Combustion,ALL,Total,NC,North Carolina,ALL,3843,megawatthours
+2024,7277,Lincoln Combustion,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,951.42,megawatthours
+2024,7277,Lincoln Combustion,NG,Natural Gas,NC,North Carolina,ALL,2891.58,megawatthours
+2024,7277,Lincoln Combustion,DFO,Distillate Fuel Oil,NC,North Carolina,GT,951.42,megawatthours
+2024,7277,Lincoln Combustion,NG,Natural Gas,NC,North Carolina,GT,2891.58,megawatthours
+2024,60611,Summit Farms Solar,ALL,Total,NC,North Carolina,ALL,78220,megawatthours
+2024,60611,Summit Farms Solar,SUN,Solar,NC,North Carolina,ALL,78220,megawatthours
+2024,60611,Summit Farms Solar,SUN,Solar,NC,North Carolina,PV,78220,megawatthours
+2024,60623,Brantley Solar,ALL,Total,NC,North Carolina,ALL,100235,megawatthours
+2024,60623,Brantley Solar,SUN,Solar,NC,North Carolina,ALL,100235,megawatthours
+2024,60623,Brantley Solar,SUN,Solar,NC,North Carolina,PV,100235,megawatthours
+2024,60624,Fox Creek Solar,ALL,Total,NC,North Carolina,ALL,81738,megawatthours
+2024,60624,Fox Creek Solar,SUN,Solar,NC,North Carolina,ALL,81738,megawatthours
+2024,60624,Fox Creek Solar,SUN,Solar,NC,North Carolina,PV,81738,megawatthours
+2024,62544,Wilkinson Solar LLC,ALL,Total,NC,North Carolina,ALL,141512,megawatthours
+2024,62544,Wilkinson Solar LLC,SUN,Solar,NC,North Carolina,ALL,141512,megawatthours
+2024,62544,Wilkinson Solar LLC,SUN,Solar,NC,North Carolina,PV,141512,megawatthours
+2024,62668,Maiden Creek Solar Power Plant,ALL,Total,NC,North Carolina,ALL,128796,megawatthours
+2024,62668,Maiden Creek Solar Power Plant,SUN,Solar,NC,North Carolina,ALL,128796,megawatthours
+2024,62668,Maiden Creek Solar Power Plant,SUN,Solar,NC,North Carolina,PV,128796,megawatthours
+2024,62669,Gaston Solar Power Plant,ALL,Total,NC,North Carolina,ALL,45289,megawatthours
+2024,62669,Gaston Solar Power Plant,SUN,Solar,NC,North Carolina,ALL,45289,megawatthours
+2024,62669,Gaston Solar Power Plant,SUN,Solar,NC,North Carolina,PV,45289,megawatthours
+2024,62678,Crooked Run,ALL,Total,NC,North Carolina,ALL,139727,megawatthours
+2024,62678,Crooked Run,SUN,Solar,NC,North Carolina,ALL,139727,megawatthours
+2024,62678,Crooked Run,SUN,Solar,NC,North Carolina,PV,139727,megawatthours
+2024,57896,Concord Energy,ALL,Total,NC,North Carolina,ALL,63857,megawatthours
+2024,57896,Concord Energy,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,0,megawatthours
+2024,57896,Concord Energy,LFG,Municiapl Landfill Gas,NC,North Carolina,ALL,63857,megawatthours
+2024,57896,Concord Energy,DFO,Distillate Fuel Oil,NC,North Carolina,GT,0,megawatthours
+2024,57896,Concord Energy,LFG,Municiapl Landfill Gas,NC,North Carolina,GT,63857,megawatthours
+2024,50188,International Paper Co. - New Bern Mill,ALL,Total,NC,North Carolina,ALL,190133.15,megawatthours
+2024,50188,International Paper Co. - New Bern Mill,BLQ,Wood Waste Solids,NC,North Carolina,ALL,159694.32,megawatthours
+2024,50188,International Paper Co. - New Bern Mill,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,0,megawatthours
+2024,50188,International Paper Co. - New Bern Mill,NG,Natural Gas,NC,North Carolina,ALL,30438.83,megawatthours
+2024,50188,International Paper Co. - New Bern Mill,OBG,other renewables,NC,North Carolina,ALL,0,megawatthours
+2024,50188,International Paper Co. - New Bern Mill,RFO,Residual Fuel Oil,NC,North Carolina,ALL,0,megawatthours
+2024,50188,International Paper Co. - New Bern Mill,BLQ,Wood Waste Solids,NC,North Carolina,ST,159694.32,megawatthours
+2024,50188,International Paper Co. - New Bern Mill,DFO,Distillate Fuel Oil,NC,North Carolina,ST,0,megawatthours
+2024,50188,International Paper Co. - New Bern Mill,NG,Natural Gas,NC,North Carolina,ST,30438.83,megawatthours
+2024,50188,International Paper Co. - New Bern Mill,OBG,other renewables,NC,North Carolina,ST,0,megawatthours
+2024,50188,International Paper Co. - New Bern Mill,RFO,Residual Fuel Oil,NC,North Carolina,ST,0,megawatthours
+2024,58215,Lee Combined Cycle Plant,ALL,Total,NC,North Carolina,ALL,6549447,megawatthours
+2024,58215,Lee Combined Cycle Plant,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,102.09,megawatthours
+2024,58215,Lee Combined Cycle Plant,NG,Natural Gas,NC,North Carolina,ALL,6549344.91,megawatthours
+2024,58215,Lee Combined Cycle Plant,DFO,Distillate Fuel Oil,NC,North Carolina,CA,35.28,megawatthours
+2024,58215,Lee Combined Cycle Plant,NG,Natural Gas,NC,North Carolina,CA,2684009.72,megawatthours
+2024,58215,Lee Combined Cycle Plant,DFO,Distillate Fuel Oil,NC,North Carolina,CT,66.81,megawatthours
+2024,58215,Lee Combined Cycle Plant,NG,Natural Gas,NC,North Carolina,CT,3865335.19,megawatthours
+2024,63842,"Trent River Solar, LLC",ALL,Total,NC,North Carolina,ALL,142402,megawatthours
+2024,63842,"Trent River Solar, LLC",SUN,Solar,NC,North Carolina,ALL,142402,megawatthours
+2024,63842,"Trent River Solar, LLC",SUN,Solar,NC,North Carolina,PV,142402,megawatthours
+2024,63976,Bay Tree,ALL,Total,NC,North Carolina,ALL,144950,megawatthours
+2024,63976,Bay Tree,SUN,Solar,NC,North Carolina,ALL,144950,megawatthours
+2024,63976,Bay Tree,SUN,Solar,NC,North Carolina,PV,144950,megawatthours
+2024,63807,"Sugar Solar, LLC",ALL,Total,NC,North Carolina,ALL,104783,megawatthours
+2024,63807,"Sugar Solar, LLC",SUN,Solar,NC,North Carolina,ALL,104783,megawatthours
+2024,63807,"Sugar Solar, LLC",SUN,Solar,NC,North Carolina,PV,104783,megawatthours
+2024,63811,"Lick Creek Solar, LLC",ALL,Total,NC,North Carolina,ALL,108649,megawatthours
+2024,63811,"Lick Creek Solar, LLC",SUN,Solar,NC,North Carolina,ALL,108649,megawatthours
+2024,63811,"Lick Creek Solar, LLC",SUN,Solar,NC,North Carolina,PV,108649,megawatthours
+2024,63812,"Highest Power Solar, LLC",ALL,Total,NC,North Carolina,ALL,102014,megawatthours
+2024,63812,"Highest Power Solar, LLC",SUN,Solar,NC,North Carolina,ALL,102014,megawatthours
+2024,63812,"Highest Power Solar, LLC",SUN,Solar,NC,North Carolina,PV,102014,megawatthours
+2024,63827,Partin Solar,ALL,Total,NC,North Carolina,ALL,57241,megawatthours
+2024,63827,Partin Solar,SUN,Solar,NC,North Carolina,ALL,57241,megawatthours
+2024,58046,Works 53,ALL,Total,NC,North Carolina,ALL,0,megawatthours
+2024,58046,Works 53,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,0,megawatthours
+2024,58046,Works 53,DFO,Distillate Fuel Oil,NC,North Carolina,IC,0,megawatthours
+2024,2727,Marshall (NC),BIT,Coal,NC,North Carolina,ST,3893479.5,megawatthours
+2024,2727,Marshall (NC),DFO,Distillate Fuel Oil,NC,North Carolina,ST,334.93,megawatthours
+2024,2706,Asheville,ALL,Total,NC,North Carolina,ALL,3835288,megawatthours
+2024,2706,Asheville,BIT,Coal,NC,North Carolina,ALL,0,megawatthours
+2024,2706,Asheville,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,9488.95,megawatthours
+2024,2706,Asheville,NG,Natural Gas,NC,North Carolina,ALL,3825799.05,megawatthours
+2024,2706,Asheville,DFO,Distillate Fuel Oil,NC,North Carolina,CA,354.9,megawatthours
+2024,2706,Asheville,NG,Natural Gas,NC,North Carolina,CA,1235938.1,megawatthours
+2024,2706,Asheville,BIT,Coal,NC,North Carolina,CT,0,megawatthours
+2024,2706,Asheville,DFO,Distillate Fuel Oil,NC,North Carolina,CT,708.93,megawatthours
+2024,2706,Asheville,NG,Natural Gas,NC,North Carolina,CT,2418993.07,megawatthours
+2024,2706,Asheville,DFO,Distillate Fuel Oil,NC,North Carolina,GT,8425.12,megawatthours
+2024,2706,Asheville,NG,Natural Gas,NC,North Carolina,GT,170867.88,megawatthours
+2024,2712,Roxboro,ALL,Total,NC,North Carolina,ALL,6775236,megawatthours
+2024,2712,Roxboro,BIT,Coal,NC,North Carolina,ALL,6747461.07,megawatthours
+2024,2712,Roxboro,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,27774.93,megawatthours
+2024,2712,Roxboro,BIT,Coal,NC,North Carolina,ST,6747461.07,megawatthours
+2024,2712,Roxboro,DFO,Distillate Fuel Oil,NC,North Carolina,ST,27774.93,megawatthours
+2024,2718,G G Allen,ALL,Total,NC,North Carolina,ALL,197901,megawatthours
+2024,2718,G G Allen,BIT,Coal,NC,North Carolina,ALL,194737.21,megawatthours
+2024,2718,G G Allen,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,3163.79,megawatthours
+2024,2718,G G Allen,BIT,Coal,NC,North Carolina,ST,194737.21,megawatthours
+2024,2718,G G Allen,DFO,Distillate Fuel Oil,NC,North Carolina,ST,3163.79,megawatthours
+2024,2720,Buck,ALL,Total,NC,North Carolina,ALL,4208617,megawatthours
+2024,2720,Buck,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,0,megawatthours
+2024,2720,Buck,NG,Natural Gas,NC,North Carolina,ALL,4208617,megawatthours
+2024,2720,Buck,DFO,Distillate Fuel Oil,NC,North Carolina,CA,0,megawatthours
+2024,2720,Buck,NG,Natural Gas,NC,North Carolina,CA,1782859,megawatthours
+2024,2720,Buck,DFO,Distillate Fuel Oil,NC,North Carolina,CT,0,megawatthours
+2024,2720,Buck,NG,Natural Gas,NC,North Carolina,CT,2425758,megawatthours
+2024,2721,James E. Rogers Energy Complex,ALL,Total,NC,North Carolina,ALL,4423834,megawatthours
+2024,2721,James E. Rogers Energy Complex,BIT,Coal,NC,North Carolina,ALL,2780607.59,megawatthours
+2024,2721,James E. Rogers Energy Complex,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,9897,megawatthours
+2024,2721,James E. Rogers Energy Complex,NG,Natural Gas,NC,North Carolina,ALL,1633329.41,megawatthours
+2024,2721,James E. Rogers Energy Complex,BIT,Coal,NC,North Carolina,ST,2780607.59,megawatthours
+2024,2721,James E. Rogers Energy Complex,DFO,Distillate Fuel Oil,NC,North Carolina,ST,9897,megawatthours
+2024,2721,James E. Rogers Energy Complex,NG,Natural Gas,NC,North Carolina,ST,1633329.41,megawatthours
+2024,2723,Dan River,ALL,Total,NC,North Carolina,ALL,4619858,megawatthours
+2024,2723,Dan River,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,0,megawatthours
+2024,2723,Dan River,NG,Natural Gas,NC,North Carolina,ALL,4619858,megawatthours
+2024,2723,Dan River,DFO,Distillate Fuel Oil,NC,North Carolina,CA,0,megawatthours
+2024,2723,Dan River,NG,Natural Gas,NC,North Carolina,CA,1969497,megawatthours
+2024,2723,Dan River,DFO,Distillate Fuel Oil,NC,North Carolina,CT,0,megawatthours
+2024,50254,KapStone Kraft Paper Corp,AB,other renewables,NC,North Carolina,ALL,0,megawatthours
+2024,50254,KapStone Kraft Paper Corp,ALL,Total,NC,North Carolina,ALL,190235.61,megawatthours
+2024,50254,KapStone Kraft Paper Corp,BIT,Coal,NC,North Carolina,ALL,28567.99,megawatthours
+2024,50254,KapStone Kraft Paper Corp,BLQ,Wood Waste Solids,NC,North Carolina,ALL,123800.91,megawatthours
+2024,50254,KapStone Kraft Paper Corp,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,143.63,megawatthours
+2024,50254,KapStone Kraft Paper Corp,NG,Natural Gas,NC,North Carolina,ALL,22017.83,megawatthours
+2024,50254,KapStone Kraft Paper Corp,RFO,Residual Fuel Oil,NC,North Carolina,ALL,565.38,megawatthours
+2024,50254,KapStone Kraft Paper Corp,WDS,Wood Waste Solids,NC,North Carolina,ALL,15139.87,megawatthours
+2024,50254,KapStone Kraft Paper Corp,AB,other renewables,NC,North Carolina,ST,0,megawatthours
+2024,50254,KapStone Kraft Paper Corp,BIT,Coal,NC,North Carolina,ST,28567.99,megawatthours
+2024,50254,KapStone Kraft Paper Corp,BLQ,Wood Waste Solids,NC,North Carolina,ST,123800.91,megawatthours
+2024,50254,KapStone Kraft Paper Corp,DFO,Distillate Fuel Oil,NC,North Carolina,ST,143.63,megawatthours
+2024,50254,KapStone Kraft Paper Corp,NG,Natural Gas,NC,North Carolina,ST,22017.83,megawatthours
+2024,50254,KapStone Kraft Paper Corp,RFO,Residual Fuel Oil,NC,North Carolina,ST,565.38,megawatthours
+2024,50254,KapStone Kraft Paper Corp,WDS,Wood Waste Solids,NC,North Carolina,ST,15139.87,megawatthours
+2024,64683,"Oak Trail Solar, LLC",ALL,Total,NC,North Carolina,ALL,237422,megawatthours
+2024,64683,"Oak Trail Solar, LLC",SUN,Solar,NC,North Carolina,ALL,237422,megawatthours
+2024,64683,"Oak Trail Solar, LLC",SUN,Solar,NC,North Carolina,PV,237422,megawatthours
+2024,64702,"Stanly Solar, LLC",ALL,Total,NC,North Carolina,ALL,99704,megawatthours
+2024,64702,"Stanly Solar, LLC",SUN,Solar,NC,North Carolina,ALL,99704,megawatthours
+2024,64702,"Stanly Solar, LLC",SUN,Solar,NC,North Carolina,PV,99704,megawatthours
+2024,1016,Butler-Warner Generation Plant,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,2141.87,megawatthours
+2024,1016,Butler-Warner Generation Plant,MWH,Other,NC,North Carolina,ALL,-139,megawatthours
+2024,1016,Butler-Warner Generation Plant,NG,Natural Gas,NC,North Carolina,ALL,37854.13,megawatthours
+2024,1016,Butler-Warner Generation Plant,SUN,Solar,NC,North Carolina,ALL,1496,megawatthours
+2024,1016,Butler-Warner Generation Plant,MWH,Other,NC,North Carolina,BA,-139,megawatthours
+2024,1016,Butler-Warner Generation Plant,DFO,Distillate Fuel Oil,NC,North Carolina,CA,-130.09,megawatthours
+2024,1016,Butler-Warner Generation Plant,NG,Natural Gas,NC,North Carolina,CA,5134.09,megawatthours
+2024,1016,Butler-Warner Generation Plant,DFO,Distillate Fuel Oil,NC,North Carolina,CT,1857.34,megawatthours
+2024,1016,Butler-Warner Generation Plant,NG,Natural Gas,NC,North Carolina,CT,26035.66,megawatthours
+2024,1016,Butler-Warner Generation Plant,DFO,Distillate Fuel Oil,NC,North Carolina,GT,414.63,megawatthours
+2024,1016,Butler-Warner Generation Plant,NG,Natural Gas,NC,North Carolina,GT,6684.38,megawatthours
+2024,1016,Butler-Warner Generation Plant,SUN,Solar,NC,North Carolina,PV,1496,megawatthours
+2024,54276,Univ of NC Chapel Hill Cogen Facility,ALL,Total,NC,North Carolina,ALL,46746,megawatthours
+2024,54276,Univ of NC Chapel Hill Cogen Facility,BIT,Coal,NC,North Carolina,ALL,20836.03,megawatthours
+2024,57629,Gaston Memorial Hospital,ALL,Total,NC,North Carolina,ALL,25,megawatthours
+2024,57629,Gaston Memorial Hospital,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,25,megawatthours
+2024,57629,Gaston Memorial Hospital,NG,Natural Gas,NC,North Carolina,ALL,0,megawatthours
+2024,57629,Gaston Memorial Hospital,DFO,Distillate Fuel Oil,NC,North Carolina,IC,25,megawatthours
+2024,57629,Gaston Memorial Hospital,NG,Natural Gas,NC,North Carolina,IC,0,megawatthours
+2024,57630,Long Creek Waste Water Plant,ALL,Total,NC,North Carolina,ALL,402,megawatthours
+2024,57630,Long Creek Waste Water Plant,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,402,megawatthours
+2024,57630,Long Creek Waste Water Plant,DFO,Distillate Fuel Oil,NC,North Carolina,IC,402,megawatthours
+2024,64144,"Harts Mill Solar, LLC",ALL,Total,NC,North Carolina,ALL,174970,megawatthours
+2024,64144,"Harts Mill Solar, LLC",SUN,Solar,NC,North Carolina,ALL,174970,megawatthours
+2024,64144,"Harts Mill Solar, LLC",SUN,Solar,NC,North Carolina,PV,174970,megawatthours
+2024,64169,Albemarle Beach Solar,ALL,Total,NC,North Carolina,ALL,215846,megawatthours
+2024,64169,Albemarle Beach Solar,SUN,Solar,NC,North Carolina,ALL,215846,megawatthours
+2024,64169,Albemarle Beach Solar,SUN,Solar,NC,North Carolina,PV,215846,megawatthours
+2024,58697,L V Sutton Combined Cycle,ALL,Total,NC,North Carolina,ALL,4000771,megawatthours
+2024,58697,L V Sutton Combined Cycle,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,260.19,megawatthours
+2024,58697,L V Sutton Combined Cycle,NG,Natural Gas,NC,North Carolina,ALL,4000510.81,megawatthours
+2024,58697,L V Sutton Combined Cycle,DFO,Distillate Fuel Oil,NC,North Carolina,CA,0,megawatthours
+2024,58697,L V Sutton Combined Cycle,NG,Natural Gas,NC,North Carolina,CA,1543308,megawatthours
+2024,58697,L V Sutton Combined Cycle,DFO,Distillate Fuel Oil,NC,North Carolina,CT,0,megawatthours
+2024,58697,L V Sutton Combined Cycle,NG,Natural Gas,NC,North Carolina,CT,2455776,megawatthours
+2024,58697,L V Sutton Combined Cycle,DFO,Distillate Fuel Oil,NC,North Carolina,GT,260.19,megawatthours
+2024,58697,L V Sutton Combined Cycle,NG,Natural Gas,NC,North Carolina,GT,1426.81,megawatthours
+2024,63827,Partin Solar,SUN,Solar,NC,North Carolina,PV,57241,megawatthours
+2024,6014,Brunswick Nuclear,ALL,Total,NC,North Carolina,ALL,15625550,megawatthours
+2024,6014,Brunswick Nuclear,NUC,Nuclear,NC,North Carolina,ALL,15625550,megawatthours
+2024,6014,Brunswick Nuclear,NUC,Nuclear,NC,North Carolina,ST,15625550,megawatthours
+2024,6015,Harris,ALL,Total,NC,North Carolina,ALL,7690460,megawatthours
+2024,6015,Harris,NUC,Nuclear,NC,North Carolina,ALL,7690460,megawatthours
+2024,6015,Harris,NUC,Nuclear,NC,North Carolina,ST,7690460,megawatthours
+2024,6038,McGuire,ALL,Total,NC,North Carolina,ALL,20033334,megawatthours
+2024,6038,McGuire,NUC,Nuclear,NC,North Carolina,ALL,20033334,megawatthours
+2024,6038,McGuire,NUC,Nuclear,NC,North Carolina,ST,20033334,megawatthours
+2024,61693,Buckleberry Solar,ALL,Total,NC,North Carolina,ALL,95743,megawatthours
+2024,61693,Buckleberry Solar,SUN,Solar,NC,North Carolina,ALL,95743,megawatthours
+2024,61693,Buckleberry Solar,SUN,Solar,NC,North Carolina,PV,95743,megawatthours
+2024,10525,Craven County Wood Energy LP,ALL,Total,NC,North Carolina,ALL,260534,megawatthours
+2024,10525,Craven County Wood Energy LP,NG,Natural Gas,NC,North Carolina,ALL,0,megawatthours
+2024,10525,Craven County Wood Energy LP,OBS,other renewables,NC,North Carolina,ALL,93920.46,megawatthours
+2024,10525,Craven County Wood Energy LP,WDS,Wood Waste Solids,NC,North Carolina,ALL,166613.54,megawatthours
+2024,10525,Craven County Wood Energy LP,WO,Waste Oil and Other Oils,NC,North Carolina,ALL,0,megawatthours
+2024,10525,Craven County Wood Energy LP,NG,Natural Gas,NC,North Carolina,ST,0,megawatthours
+2024,10525,Craven County Wood Energy LP,OBS,other renewables,NC,North Carolina,ST,93920.46,megawatthours
+2024,10525,Craven County Wood Energy LP,WDS,Wood Waste Solids,NC,North Carolina,ST,166613.54,megawatthours
+2024,10525,Craven County Wood Energy LP,WO,Waste Oil and Other Oils,NC,North Carolina,ST,0,megawatthours
+2024,10550,High Shoals Hydro (NC),ALL,Total,NC,North Carolina,ALL,4092,megawatthours
+2024,60149,"Innovative Solar 43, LLC",ALL,Total,NC,North Carolina,ALL,65331,megawatthours
+2024,60149,"Innovative Solar 43, LLC",SUN,Solar,NC,North Carolina,ALL,65331,megawatthours
+2024,60149,"Innovative Solar 43, LLC",SUN,Solar,NC,North Carolina,PV,65331,megawatthours
+2024,67161,Oak Solar,ALL,Total,NC,North Carolina,ALL,185578,megawatthours
+2024,67161,Oak Solar,SUN,Solar,NC,North Carolina,ALL,185578,megawatthours
+2024,67161,Oak Solar,SUN,Solar,NC,North Carolina,PV,185578,megawatthours
+2024,54823,Smithfield Farmland Corp Bladen,ALL,Total,NC,North Carolina,ALL,132,megawatthours
+2024,54823,Smithfield Farmland Corp Bladen,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,132,megawatthours
+2024,54823,Smithfield Farmland Corp Bladen,DFO,Distillate Fuel Oil,NC,North Carolina,IC,132,megawatthours
+2024,59968,"Desert Wind Farm, LLC",ALL,Total,NC,North Carolina,ALL,508991,megawatthours
+2024,59968,"Desert Wind Farm, LLC",WND,Wind,NC,North Carolina,ALL,508991,megawatthours
+2024,59968,"Desert Wind Farm, LLC",WND,Wind,NC,North Carolina,WT,508991,megawatthours
+2024,55002,Murphy-Brown LLC,ALL,Total,NC,North Carolina,ALL,1.96,megawatthours
+2024,55002,Murphy-Brown LLC,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,1.96,megawatthours
+2024,55002,Murphy-Brown LLC,DFO,Distillate Fuel Oil,NC,North Carolina,IC,1.96,megawatthours
+2024,59666,Innovative Solar 47,ALL,Total,NC,North Carolina,ALL,60544,megawatthours
+2024,59666,Innovative Solar 47,SUN,Solar,NC,North Carolina,ALL,60544,megawatthours
+2024,59666,Innovative Solar 47,SUN,Solar,NC,North Carolina,PV,60544,megawatthours
+2024,59669,Innovative Solar 54,ALL,Total,NC,North Carolina,ALL,99868,megawatthours
+2024,59669,Innovative Solar 54,SUN,Solar,NC,North Carolina,ALL,99868,megawatthours
+2024,59669,Innovative Solar 54,SUN,Solar,NC,North Carolina,PV,99868,megawatthours
+2024,59671,Innovative Solar 46,ALL,Total,NC,North Carolina,ALL,140956,megawatthours
+2024,59671,Innovative Solar 46,SUN,Solar,NC,North Carolina,ALL,140956,megawatthours
+2024,59671,Innovative Solar 46,SUN,Solar,NC,North Carolina,PV,140956,megawatthours
+2024,59678,Innovative Solar 67,ALL,Total,NC,North Carolina,ALL,67120,megawatthours
+2024,59678,Innovative Solar 67,SUN,Solar,NC,North Carolina,ALL,67120,megawatthours
+2024,59678,Innovative Solar 67,SUN,Solar,NC,North Carolina,PV,67120,megawatthours
+2024,67910,"Timbermill Wind, LLC",ALL,Total,NC,North Carolina,ALL,21052,megawatthours
+2024,67910,"Timbermill Wind, LLC",WND,Wind,NC,North Carolina,ALL,21052,megawatthours
+2024,67910,"Timbermill Wind, LLC",WND,Wind,NC,North Carolina,WT,21052,megawatthours
+2024,10550,High Shoals Hydro (NC),WAT,Hydroelectric Conventional,NC,North Carolina,ALL,4092,megawatthours
+2024,10550,High Shoals Hydro (NC),WAT,Hydroelectric Conventional,NC,North Carolina,HY,4092,megawatthours
+2024,50509,PCS Phosphate,ALL,Total,NC,North Carolina,ALL,225100,megawatthours
+2024,50509,PCS Phosphate,WH,Other,NC,North Carolina,ALL,225100,megawatthours
+2024,50509,PCS Phosphate,WH,Other,NC,North Carolina,ST,225100,megawatthours
+2024,61778,North 301 Solar,ALL,Total,NC,North Carolina,ALL,27088,megawatthours
+2024,61778,North 301 Solar,SUN,Solar,NC,North Carolina,ALL,27088,megawatthours
+2024,61778,North 301 Solar,SUN,Solar,NC,North Carolina,PV,27088,megawatthours
+2024,61813,"Ranchland Solar, LLC",ALL,Total,NC,North Carolina,ALL,111849,megawatthours
+2024,61813,"Ranchland Solar, LLC",SUN,Solar,NC,North Carolina,ALL,111849,megawatthours
+2024,61813,"Ranchland Solar, LLC",SUN,Solar,NC,North Carolina,PV,111849,megawatthours
+2024,1016,Butler-Warner Generation Plant,ALL,Total,NC,North Carolina,ALL,41353,megawatthours
+2024,2727,Marshall (NC),NG,Natural Gas,NC,North Carolina,ST,3551328.57,megawatthours
+2024,2735,Turner Shoals,ALL,Total,NC,North Carolina,ALL,9411,megawatthours
+2024,2735,Turner Shoals,WAT,Hydroelectric Conventional,NC,North Carolina,ALL,9411,megawatthours
+2024,2735,Turner Shoals,WAT,Hydroelectric Conventional,NC,North Carolina,HY,9411,megawatthours
+2024,2756,Gaston,ALL,Total,NC,North Carolina,ALL,332417,megawatthours
+2024,2756,Gaston,WAT,Hydroelectric Conventional,NC,North Carolina,ALL,332417,megawatthours
+2024,2756,Gaston,WAT,Hydroelectric Conventional,NC,North Carolina,HY,332417,megawatthours
+2024,2780,Hiwassee Dam,ALL,Total,NC,North Carolina,ALL,240944,megawatthours
+2024,2780,Hiwassee Dam,WAT,Hydroelectric Pumped Storage,NC,North Carolina,ALL,0,megawatthours
+2024,2780,Hiwassee Dam,WAT,Hydroelectric Conventional,NC,North Carolina,ALL,240944,megawatthours
+2024,2780,Hiwassee Dam,WAT,Hydroelectric Conventional,NC,North Carolina,HY,240944,megawatthours
+2024,2780,Hiwassee Dam,WAT,Hydroelectric Pumped Storage,NC,North Carolina,PS,0,megawatthours
+2024,62798,Fern Solar LLC,ALL,Total,NC,North Carolina,ALL,172966,megawatthours
+2024,62798,Fern Solar LLC,SUN,Solar,NC,North Carolina,ALL,172966,megawatthours
+2024,62798,Fern Solar LLC,SUN,Solar,NC,North Carolina,PV,172966,megawatthours
+2024,62822,"Broad River Solar, LLC",ALL,Total,NC,North Carolina,ALL,77293,megawatthours
+2024,62822,"Broad River Solar, LLC",SUN,Solar,NC,North Carolina,ALL,77293,megawatthours
+2024,62822,"Broad River Solar, LLC",SUN,Solar,NC,North Carolina,PV,77293,megawatthours
+2024,7805,Sherwood H Smith Jr Energy Complex,ALL,Total,NC,North Carolina,ALL,9424329,megawatthours
+2024,7805,Sherwood H Smith Jr Energy Complex,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,16704.72,megawatthours
+2024,7805,Sherwood H Smith Jr Energy Complex,NG,Natural Gas,NC,North Carolina,ALL,9407624.28,megawatthours
+2024,7805,Sherwood H Smith Jr Energy Complex,DFO,Distillate Fuel Oil,NC,North Carolina,CA,3.72,megawatthours
+2024,7805,Sherwood H Smith Jr Energy Complex,NG,Natural Gas,NC,North Carolina,CA,2959398.28,megawatthours
+2024,7805,Sherwood H Smith Jr Energy Complex,DFO,Distillate Fuel Oil,NC,North Carolina,CT,6.93,megawatthours
+2024,7805,Sherwood H Smith Jr Energy Complex,NG,Natural Gas,NC,North Carolina,CT,4736501.07,megawatthours
+2024,7805,Sherwood H Smith Jr Energy Complex,DFO,Distillate Fuel Oil,NC,North Carolina,GT,16694.07,megawatthours
+2024,7805,Sherwood H Smith Jr Energy Complex,NG,Natural Gas,NC,North Carolina,GT,1711724.93,megawatthours
+2024,7826,Rowan,ALL,Total,NC,North Carolina,ALL,4154609,megawatthours
+2024,7826,Rowan,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,17091.18,megawatthours
+2024,7826,Rowan,NG,Natural Gas,NC,North Carolina,ALL,4137517.82,megawatthours
+2024,7826,Rowan,DFO,Distillate Fuel Oil,NC,North Carolina,CA,0,megawatthours
+2024,7826,Rowan,NG,Natural Gas,NC,North Carolina,CA,1315568,megawatthours
+2024,7826,Rowan,DFO,Distillate Fuel Oil,NC,North Carolina,CT,0,megawatthours
+2024,7826,Rowan,NG,Natural Gas,NC,North Carolina,CT,2439479,megawatthours
+2024,7826,Rowan,DFO,Distillate Fuel Oil,NC,North Carolina,GT,17091.18,megawatthours
+2024,7826,Rowan,NG,Natural Gas,NC,North Carolina,GT,382470.82,megawatthours
+2024,55116,Rockingham County CT Station,ALL,Total,NC,North Carolina,ALL,1419584,megawatthours
+2024,55116,Rockingham County CT Station,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,16559.35,megawatthours
+2024,55116,Rockingham County CT Station,NG,Natural Gas,NC,North Carolina,ALL,1403024.65,megawatthours
+2024,55116,Rockingham County CT Station,DFO,Distillate Fuel Oil,NC,North Carolina,GT,16559.35,megawatthours
+2024,55116,Rockingham County CT Station,NG,Natural Gas,NC,North Carolina,GT,1403024.65,megawatthours
+2024,60030,Pecan Solar,ALL,Total,NC,North Carolina,ALL,147451,megawatthours
+2024,60030,Pecan Solar,SUN,Solar,NC,North Carolina,ALL,147451,megawatthours
+2024,60030,Pecan Solar,SUN,Solar,NC,North Carolina,PV,147451,megawatthours
+2024,56553,Catawba River Pollution Control,ALL,Total,NC,North Carolina,ALL,5,megawatthours
+2024,56553,Catawba River Pollution Control,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,5,megawatthours
+2024,56553,Catawba River Pollution Control,DFO,Distillate Fuel Oil,NC,North Carolina,IC,5,megawatthours
+2024,2723,Dan River,NG,Natural Gas,NC,North Carolina,CT,2650361,megawatthours
+2024,2727,Marshall (NC),ALL,Total,NC,North Carolina,ALL,7445143,megawatthours
+2024,2727,Marshall (NC),BIT,Coal,NC,North Carolina,ALL,3893479.5,megawatthours
+2024,2727,Marshall (NC),DFO,Distillate Fuel Oil,NC,North Carolina,ALL,334.93,megawatthours
+2024,2727,Marshall (NC),NG,Natural Gas,NC,North Carolina,ALL,3551328.57,megawatthours
+2024,62340,"Aulander Holloman Solar, LLC",ALL,Total,NC,North Carolina,ALL,187501,megawatthours
+2024,62340,"Aulander Holloman Solar, LLC",SUN,Solar,NC,North Carolina,ALL,187501,megawatthours
+2024,62340,"Aulander Holloman Solar, LLC",SUN,Solar,NC,North Carolina,PV,187501,megawatthours
+2024,65106,"Phobos Solar, LLC",ALL,Total,NC,North Carolina,ALL,176607,megawatthours
+2024,65106,"Phobos Solar, LLC",SUN,Solar,NC,North Carolina,ALL,176607,megawatthours
+2024,65106,"Phobos Solar, LLC",SUN,Solar,NC,North Carolina,PV,176607,megawatthours
+2024,65107,"Cabin Creek Solar, LLC",ALL,Total,NC,North Carolina,ALL,158284,megawatthours
+2024,65107,"Cabin Creek Solar, LLC",SUN,Solar,NC,North Carolina,ALL,158284,megawatthours
+2024,65107,"Cabin Creek Solar, LLC",SUN,Solar,NC,North Carolina,PV,158284,megawatthours
+2024,54276,Univ of NC Chapel Hill Cogen Facility,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,0,megawatthours
+2024,54276,Univ of NC Chapel Hill Cogen Facility,NG,Natural Gas,NC,North Carolina,ALL,25909.98,megawatthours
+2024,54276,Univ of NC Chapel Hill Cogen Facility,DFO,Distillate Fuel Oil,NC,North Carolina,IC,0,megawatthours
+2024,54276,Univ of NC Chapel Hill Cogen Facility,BIT,Coal,NC,North Carolina,ST,20836.03,megawatthours
+2024,54276,Univ of NC Chapel Hill Cogen Facility,DFO,Distillate Fuel Oil,NC,North Carolina,ST,0,megawatthours
+2024,54276,Univ of NC Chapel Hill Cogen Facility,NG,Natural Gas,NC,North Carolina,ST,25909.98,megawatthours
+2024,54363,"Shelby, NC",ALL,Total,NC,North Carolina,ALL,39,megawatthours
+2024,54363,"Shelby, NC",DFO,Distillate Fuel Oil,NC,North Carolina,ALL,39,megawatthours
+2024,54363,"Shelby, NC",DFO,Distillate Fuel Oil,NC,North Carolina,IC,39,megawatthours
+2024,61011,Chestnut Solar,ALL,Total,NC,North Carolina,ALL,150213,megawatthours
+2024,61011,Chestnut Solar,SUN,Solar,NC,North Carolina,ALL,150213,megawatthours
+2024,61011,Chestnut Solar,SUN,Solar,NC,North Carolina,PV,150213,megawatthours
+2024,8042,Belews Creek,ALL,Total,NC,North Carolina,ALL,9563806,megawatthours
+2024,8042,Belews Creek,BIT,Coal,NC,North Carolina,ALL,2271892.97,megawatthours
+2024,8042,Belews Creek,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,56.67,megawatthours
+2024,8042,Belews Creek,NG,Natural Gas,NC,North Carolina,ALL,7291856.36,megawatthours
+2024,8042,Belews Creek,BIT,Coal,NC,North Carolina,ST,2271892.97,megawatthours
+2024,8042,Belews Creek,DFO,Distillate Fuel Oil,NC,North Carolina,ST,56.67,megawatthours
+2024,8042,Belews Creek,NG,Natural Gas,NC,North Carolina,ST,7291856.36,megawatthours
+2024,59589,Rutherford Farm,ALL,Total,NC,North Carolina,ALL,134590,megawatthours
+2024,59589,Rutherford Farm,SUN,Solar,NC,North Carolina,ALL,134590,megawatthours
+2024,59589,Rutherford Farm,SUN,Solar,NC,North Carolina,PV,134590,megawatthours
+2024,59665,Innovative Solar 37 LLC,ALL,Total,NC,North Carolina,ALL,113744,megawatthours
+2024,59665,Innovative Solar 37 LLC,SUN,Solar,NC,North Carolina,ALL,113744,megawatthours
+2024,59665,Innovative Solar 37 LLC,SUN,Solar,NC,North Carolina,PV,113744,megawatthours
+2024,66237,Misenheimer Solar LLC,ALL,Total,NC,North Carolina,ALL,138891,megawatthours
+2024,66237,Misenheimer Solar LLC,SUN,Solar,NC,North Carolina,ALL,138891,megawatthours
+2024,66237,Misenheimer Solar LLC,SUN,Solar,NC,North Carolina,PV,138891,megawatthours
+2024,66358,"Virginia Line Solar, LLC",ALL,Total,NC,North Carolina,ALL,75959,megawatthours
+2024,66358,"Virginia Line Solar, LLC",SUN,Solar,NC,North Carolina,ALL,75959,megawatthours
+2024,66358,"Virginia Line Solar, LLC",SUN,Solar,NC,North Carolina,PV,75959,megawatthours
+2024,6250,Mayo,ALL,Total,NC,North Carolina,ALL,906321,megawatthours
+2024,6250,Mayo,BIT,Coal,NC,North Carolina,ALL,895963.66,megawatthours
+2024,6250,Mayo,DFO,Distillate Fuel Oil,NC,North Carolina,ALL,10357.34,megawatthours
+2024,6250,Mayo,BIT,Coal,NC,North Carolina,ST,895963.66,megawatthours
+2024,6250,Mayo,DFO,Distillate Fuel Oil,NC,North Carolina,ST,10357.34,megawatthours
+2024,60380,"Shoe Creek Solar, LLC",SUN,Solar,NC,North Carolina,PV,126918,megawatthours
+2024,60383,Monroe Solar Facility,ALL,Total,NC,North Carolina,ALL,94498,megawatthours
+2024,60383,Monroe Solar Facility,SUN,Solar,NC,North Carolina,ALL,94498,megawatthours
+2024,60383,Monroe Solar Facility,SUN,Solar,NC,North Carolina,PV,94498,megawatthours
+2024,60539,Innovative Solar 42,ALL,Total,NC,North Carolina,ALL,124441,megawatthours
+2024,60539,Innovative Solar 42,SUN,Solar,NC,North Carolina,ALL,124441,megawatthours
+2024,60539,Innovative Solar 42,SUN,Solar,NC,North Carolina,PV,124441,megawatthours
+2024,60540,Innovative Solar 31,ALL,Total,NC,North Carolina,ALL,61214,megawatthours
+2024,60540,Innovative Solar 31,SUN,Solar,NC,North Carolina,ALL,61214,megawatthours
+2024,60540,Innovative Solar 31,SUN,Solar,NC,North Carolina,PV,61214,megawatthours
+2024,54656,International Paper Riegelwood Mill,ALL,Total,NC,North Carolina,ALL,293330.24,megawatthours
+2024,54656,International Paper Riegelwood Mill,ANT,Coal,NC,North Carolina,ALL,0,megawatthours
+2024,54656,International Paper Riegelwood Mill,BIT,Coal,NC,North Carolina,ALL,0,megawatthours
+2024,54656,International Paper Riegelwood Mill,BLQ,Wood Waste Solids,NC,North Carolina,ALL,256550.91,megawatthours
+2024,54656,International Paper Riegelwood Mill,NG,Natural Gas,NC,North Carolina,ALL,36779.33,megawatthours
+2024,54656,International Paper Riegelwood Mill,RFO,Residual Fuel Oil,NC,North Carolina,ALL,0,megawatthours
+2024,54656,International Paper Riegelwood Mill,SLW,other renewables,NC,North Carolina,ALL,0,megawatthours
+2024,54656,International Paper Riegelwood Mill,WDS,Wood Waste Solids,NC,North Carolina,ALL,0,megawatthours
+2024,54656,International Paper Riegelwood Mill,ANT,Coal,NC,North Carolina,ST,0,megawatthours
+2024,54656,International Paper Riegelwood Mill,BIT,Coal,NC,North Carolina,ST,0,megawatthours
+2024,54656,International Paper Riegelwood Mill,BLQ,Wood Waste Solids,NC,North Carolina,ST,256550.91,megawatthours
+2024,54656,International Paper Riegelwood Mill,NG,Natural Gas,NC,North Carolina,ST,36779.33,megawatthours
+2024,54656,International Paper Riegelwood Mill,RFO,Residual Fuel Oil,NC,North Carolina,ST,0,megawatthours
+2024,54656,International Paper Riegelwood Mill,SLW,other renewables,NC,North Carolina,ST,0,megawatthours
+2024,54656,International Paper Riegelwood Mill,WDS,Wood Waste Solids,NC,North Carolina,ST,0,megawatthours
+2024,62951,Hawtree Solar,ALL,Total,NC,North Carolina,ALL,111768,megawatthours
+2024,62951,Hawtree Solar,SUN,Solar,NC,North Carolina,ALL,111768,megawatthours
+2024,62951,Hawtree Solar,SUN,Solar,NC,North Carolina,PV,111768,megawatthours
+2024,63064,Asheville-Rock Hill Battery,ALL,Total,NC,North Carolina,ALL,-160,megawatthours
+2024,63064,Asheville-Rock Hill Battery,MWH,Other,NC,North Carolina,ALL,-160,megawatthours
+2024,63064,Asheville-Rock Hill Battery,MWH,Other,NC,North Carolina,BA,-160,megawatthours
+2024,63076,Gutenberg Solar,ALL,Total,NC,North Carolina,ALL,152931,megawatthours
+2024,63076,Gutenberg Solar,SUN,Solar,NC,North Carolina,ALL,152931,megawatthours
+2024,63076,Gutenberg Solar,SUN,Solar,NC,North Carolina,PV,152931,megawatthours
+2024,61512,"Bullock Solar, LLC",ALL,Total,NC,North Carolina,ALL,101206,megawatthours
+2024,61512,"Bullock Solar, LLC",SUN,Solar,NC,North Carolina,ALL,101206,megawatthours
+2024,61512,"Bullock Solar, LLC",SUN,Solar,NC,North Carolina,PV,101206,megawatthours
+2024,61561,Bladen Solar,ALL,Total,NC,North Carolina,ALL,104030,megawatthours
+2024,61561,Bladen Solar,SUN,Solar,NC,North Carolina,ALL,104030,megawatthours
+2024,61561,Bladen Solar,SUN,Solar,NC,North Carolina,PV,104030,megawatthours
+2024,61610,NC 102 Project LLC,ALL,Total,NC,North Carolina,ALL,129300,megawatthours
+2024,61610,NC 102 Project LLC,SUN,Solar,NC,North Carolina,ALL,129300,megawatthours
+2024,61610,NC 102 Project LLC,SUN,Solar,NC,North Carolina,PV,129300,megawatthours
